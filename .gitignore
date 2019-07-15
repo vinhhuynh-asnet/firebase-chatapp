@@ -1,3 +1,10 @@
+# VS editor
 .vscode
+
+# Firebase cache
+.firebase
 .firebaserc
+
+# Node modules
 node_modules
+
